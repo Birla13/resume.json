@@ -1,0 +1,58 @@
+{
+	"basics": {
+		"name": "Deepanshi Birla",
+		"label": "Student",
+		"picture": "https://avatars.githubusercontent.com/u/88242631?v=4",
+		"email": "2020kucp1111@iiitkota.ac.in",
+		"phone": "7357730564",
+		
+	
+		"summary": "",
+		"location": {
+			"address": "Deorawas",
+			"postalCode": "304802",
+			"city": "Tonk",
+			"countryCode": "India",
+			"region": "Rajasthan"
+		},
+		"profiles": [{
+				"network": "Twitter",
+				"username": "handle",
+				"url": "https://www.twitter.com/<handle>"
+			},
+			{
+				"network": "Github",
+				"username": "Birla13",
+				"url": "https://github.com/Birla13"
+			},
+			{
+				"network": "linkedin",
+				"username": "deepanshi-birla-66a573218",
+				"url": "https://www.linkedin.com/in/deepanshi-birla-66a573218"
+			}
+		]
+	},
+	"education": [{
+		"institution": "Indian Institute of Information technology,kota",
+		"area": "Engineering",
+		"studyType": "Bachelor (hons)",
+		"startDate": "2020-02-012 //Date",
+		"endDate": "----",
+		"gpa": "---Add your CGPA ---",
+		"courses": [
+			"Computer Science & Engineering"
+		]
+	}],
+	"skills": [{
+		"level": "intermediate",
+		"keywords": ["HTML", "CSS", "Javascript",  "C"]
+	}],
+	"interests": [{
+		"name": "art&craft",
+		"keywords": ["art & craft"]
+	}],
+
+	"references": []
+}
+	
+	
