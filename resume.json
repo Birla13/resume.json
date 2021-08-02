@@ -7,7 +7,7 @@
 		"phone": "7357730564",
 		
 	
-		"summary": "",
+		
 		"location": {
 			"address": "Deorawas",
 			"postalCode": "304802",
@@ -37,9 +37,8 @@
 		"area": "Engineering",
 		"studyType": "Bachelor (hons)",
 		"startDate": "2020-02-012 //Date",
-		"endDate": "----",
-		"gpa": "---Add your CGPA ---",
-		"courses": [
+		
+		"courses" : [
 			"Computer Science & Engineering"
 		]
 	}],
@@ -49,7 +48,7 @@
 	}],
 	"interests": [{
 		"name": "art&craft",
-		"keywords": ["art & craft"]
+		"keywords": ["art & craft","best out of waste"]
 	}],
 
 	"references": []
